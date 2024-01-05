@@ -1,3 +1,4 @@
+![logo](https://github.com/Bismark668/Bismark668/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Bismark Arthur</h1>
 <h3 align="center">A passionate Full Stack developer from Ghana</h3>
 
